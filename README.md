@@ -7,3 +7,4 @@ Se trata de utilizar las hojas de estilo de tal manera que pueden ser dinamicas 
 Simplemente descargue el repositorio y lleve el archivo index.html al buscador para ejecutar.
 #### RoadMap de mejoras
 1. Implementacion de un laberinto
+#### <a href="https://github.com/rolandovaldir/Portfolio_Eyes/blob/main/LICENSE"> Licencia </a>
