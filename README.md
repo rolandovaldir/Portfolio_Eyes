@@ -6,5 +6,5 @@ Se trata de utilizar las hojas de estilo de tal manera que pueden ser dinamicas 
 ### How to run
 Simplemente descargue el repositorio y lleve el archivo index.html al buscador para ejecutar.
 #### RoadMap de mejoras
-1. Implementacion de un laberinto
+1. Implementacion de pestañas y realizar el movimiento de pestañeo.
 #### <a href="https://github.com/rolandovaldir/Portfolio_Eyes/blob/main/LICENSE"> Licencia </a>
